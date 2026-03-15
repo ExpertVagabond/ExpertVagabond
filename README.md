@@ -1,34 +1,69 @@
-# Matthew Karsten
+# Hi, I'm Matthew Karsten
 
-**Founder, [Purple Squirrel Media](https://purplesquirrelmedia.io)** &mdash; Building at the intersection of AI agents and crypto.
+**Founder, [Purple Squirrel Media](https://purplesquirrelmedia.io)** — Building AI x Web3 developer tools.
 
-Based in Annecy, France. Full-stack engineer with a focus on Solana, MCP servers, and autonomous agent tooling.
+Full-stack engineer shipping autonomous agent tooling, MCP servers, and Solana infrastructure. Based in Annecy, France.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
-### What I'm Building
+### By the Numbers
 
-**[Coldstar](https://github.com/ExpertVagabond/coldstar-colosseum)** &mdash; Air-gapped Solana cold wallet with hardware-grade security. Built for the agent economy. Rust secure signer, FairScore risk engine, offline transaction signing. *Colosseum Hackathon finalist.*
+| | |
+|---|---|
+| **321** | Open source repositories |
+| **25** | MCP servers (AI tool bridges) |
+| **18** | Published npm packages |
+| **12** | Rust crates |
+| **5** | Published books |
 
-**[Ordinals MCP](https://github.com/ExpertVagabond/ordinals-mcp)** &mdash; Bitcoin Ordinals server for AI assistants. 24 tools covering inscriptions, runes, BRC-20, rare sats, and marketplace data. Published on npm.
+---
 
-**[Solana Narrative Tracker](https://github.com/ExpertVagabond/solana-narrative-tracker)** &mdash; AI-powered signal detection for emerging Solana ecosystem narratives. Analyzes on-chain, developer, market, and social data.
+### Featured Projects
 
-**[Raycast MCP](https://github.com/ExpertVagabond/raycast-mcp-server)** &mdash; Model Context Protocol server for Raycast workflow automation. 9 tools for AI-native macOS productivity.
+**[Coldstar](https://github.com/ExpertVagabond/coldstar-colosseum)** — Air-gapped Solana cold wallet. Rust secure signer, FairScore risk engine, offline transaction signing. *Colosseum Hackathon finalist.*
 
-### Tech
+**[cpanel-mcp](https://github.com/ExpertVagabond/cpanel-mcp)** — MCP server for cPanel/WHM hosting automation. 47 tools. Published on npm.
+
+**[solana-mcp-server](https://github.com/ExpertVagabond/solana-mcp-server)** — Solana blockchain MCP server for AI assistants. Token management, DeFi operations, wallet tooling.
+
+**[NorthCatch](https://github.com/ExpertVagabond/NorthCatch)** — Expo/React Native fishing app for iOS and Android.
+
+**[Ordinals MCP](https://github.com/ExpertVagabond/ordinals-mcp)** — Bitcoin Ordinals server for AI assistants. 24 tools covering inscriptions, runes, BRC-20, and rare sats.
+
+**[SolMail MCP](https://github.com/ExpertVagabond/solmail-mcp)** — On-chain encrypted messaging for Solana via MCP.
+
+---
+
+### What I Work On
+
+- **MCP Servers** — 25+ servers bridging AI assistants with blockchains, hosting, media, and dev tools
+- **Solana Infrastructure** — Cold wallets, token tooling, on-chain messaging
+- **AI Agent Tooling** — Autonomous coding orchestrators, content engines, local AI pipelines
+- **CLI Tools** — 14 production CLIs across Ruby, TypeScript, and Rust
+
+### Tech Stack
 
 ```
-Languages    TypeScript  JavaScript  Python  Rust  Ruby  Go
+Languages    TypeScript  Rust  Python  Ruby  Go  JavaScript
 Blockchain   Solana  Anchor  Bitcoin Ordinals  ZetaChain
-AI/Agents    MCP Servers  Claude Code  LangChain  Ollama
-Infra        EAS  Cloudflare  Docker  Kamal  GitHub Actions
+AI/Agents    MCP Servers  Claude Code  Ollama  ChromaDB  LangChain
+Mobile       Expo  React Native  EAS
+Infra        Cloudflare Pages  Docker  GitHub Actions  cPanel
 ```
 
-### Open Source
-
-I maintain 8+ MCP servers bridging AI assistants with blockchains, developer tools, and real-world services. Most of my work ships as CLI tools or MCP integrations &mdash; designed to be used by both humans and agents.
+---
 
 ### Links
 
-[Portfolio](https://expertvagabond.github.io) ・ [Purple Squirrel Media](https://purplesquirrelmedia.io) ・ [Twitter](https://twitter.com/expertvagabond) ・ [npm](https://www.npmjs.com/~expertvagabond)
+[purplesquirrelmedia.io](https://purplesquirrelmedia.io) ・ [Twitter @expertvagabond](https://twitter.com/expertvagabond) ・ [npm](https://www.npmjs.com/~expertvagabond)
+
+---
+
+If my tools are useful to you, consider [sponsoring my work](https://github.com/sponsors/ExpertVagabond).

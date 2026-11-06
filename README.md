@@ -16,7 +16,7 @@ Developer relations engineer and open-source builder working across AI agents, a
 
 | Project | What it demonstrates |
 |---|---|
-| [auth0-mcp-demo](https://github.com/ExpertVagabond/auth0-mcp-demo) | OAuth 2.0 authorization for agent tools: issuer and audience validation, tool permissions, protected-resource metadata, downstream token exchange, Token Vault, explicit refusal paths, and 22 passing tests. |
+| Auth0 authorization reference implementation *(private)* | OAuth 2.0 authorization for agent tools: issuer and audience validation, tool permissions, protected-resource metadata, downstream token exchange, Token Vault, explicit refusal paths, and 22 passing tests. |
 | [goat-network-mcp](https://github.com/ExpertVagabond/goat-network-mcp) | A published integration for a Bitcoin L2 with 91+ standard tools, optional payment and merchant services, transaction builders, bridging, and external signing. |
 | [coldstar-agent-signer](https://github.com/ExpertVagabond/coldstar-agent-signer) | Policy-gated Solana signing where the agent never holds the root key. |
 | [solana-mcp-server](https://github.com/ExpertVagabond/solana-mcp-server) | Published Solana developer tooling covering wallets, SPL tokens, transfers, account queries, and network operations. |
